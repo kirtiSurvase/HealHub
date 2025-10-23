@@ -1,0 +1,1 @@
+UPDATE therapists SET status='Approved' WHERE therapist_id=8
